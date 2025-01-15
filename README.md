@@ -2,7 +2,7 @@
 
 _A beautiful, feature-rich todo application built with React, Redux, and TypeScript._
 
-Live Link : https://d0lt.vercel.app
+Live Link : https://d0it.vercel.app
 ---
 
 ## ✨ **Features**
