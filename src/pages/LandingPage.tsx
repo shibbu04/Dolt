@@ -14,6 +14,28 @@ const LandingPage = () => {
               <ListTodo className="h-8 w-8 text-primary-dark dark:text-primary-light" />
               <span className="ml-2 text-xl font-bold text-gray-900 dark:text-white">DoIt</span>
             </div>
+
+            {/* Navigation Links */}
+            <div className="hidden md:flex items-center gap-6">
+              <Link
+                to="/"
+                className="px-4 py-2 rounded-lg text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+              >
+                Home
+              </Link>
+              <Link
+                to="/"
+                className="px-4 py-2 rounded-lg text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+              >
+                About
+              </Link>
+              <Link
+                to="/"
+                className="px-4 py-2 rounded-lg text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+              >
+                Features
+              </Link>
+            </div>
             <div className="flex items-center gap-4">
               <ThemeToggle />
               <Link
