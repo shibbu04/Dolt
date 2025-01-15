@@ -30,7 +30,7 @@ Live Link : https://dolt.vercel.app
 
 ## 🛠️ **Tech Stack**
 
-- **Frontend Framework**: React
+- **Frontend Framework**: HTML, CSS, JAVASCRIPT, React
 - **State Management**: Redux Toolkit
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
